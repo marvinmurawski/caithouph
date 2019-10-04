@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eequerich.malte-wunsch.de/sitemap.xml
